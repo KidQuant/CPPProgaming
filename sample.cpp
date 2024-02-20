@@ -3,11 +3,12 @@ using namespace std;
 
 int main()
 {
- int feet = 0, inches = 0;
+  int count = 0;
+  double distance = 01.5;
 
- cout << feet << inches;
 
- return 0;
+  cout << count; 
+  cout << distance;
 }
 
 
